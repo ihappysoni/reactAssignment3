@@ -11,8 +11,6 @@ class Feedback extends Component {
     
     this.props.statechange();
     
-   
-
     }
   
   render() {
